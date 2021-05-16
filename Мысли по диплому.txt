@@ -48,4 +48,4 @@
 Про достоинства микросервисов в первую главу
 https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/architect-microservice-container-applications/microservices-architecture
 
-
+ORM, mapper, IoC container
